@@ -20,22 +20,23 @@ I specialize in developing, deploying, and scaling intelligent applications that
 - Experiment with **prompt engineering**, fine-tuning, and API integrations  
 
 ---
-### 🌱 Currently Exploring
+### Currently Exploring
 - Advanced **Generative AI architectures** and **multimodal LLMs**
 - **MLOps practices** for scalable AI deployment  
 - **LangGraph**, **AutoGen**, and **CrewAI** for agent-based automation  
 
-### 👯 Collaboration Interests
+---
+###  Collaboration Interests
 - Open-source **AI/ML** projects  
 - **RAG and LLM-based** research implementations  
 - Innovative startups building AI-first solutions  
-
-### 💬 Ask Me About
+---
+### Ask Me About
 - Building **end-to-end ML pipelines**  
 - Designing **LLM and RAG systems**  
 - **LangChain, AutoGen, FastAPI, Docker, AWS** integration  
 - Deploying **Generative AI** apps in production  
-
+---
 
 ### 🛠️ **Tech Stack**
 
@@ -101,4 +102,4 @@ I specialize in developing, deploying, and scaling intelligent applications that
   <a href="mailto:gunavardhangolagani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/gunavardhangolagani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
---- 
+
